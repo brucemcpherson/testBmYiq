@@ -1,0 +1,21 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "bmYiq",
+        "version": "0",
+        "libraryId": "1gUNJ_axo9Q2tiBkZ5QFfLz03O1SMLR11Z-aZJoMzwImGWwSCwgH0SSW8",
+        "developmentMode": true
+      },
+      {
+        "userSymbol": "bmFiddler",
+        "version": "0",
+        "libraryId": "13EWG4-lPrEf34itxQhAQ7b9JEbmCBfO8uE4Mhr99CHi3Pw65oxXtq-rU",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
