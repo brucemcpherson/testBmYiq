@@ -1,5 +1,5 @@
 # Google Apps Script Project: testBmYiq
-This repo (testBmYiq) was automatically updated on 5/15/2023, 10:37:47?AM by GasGit
+This repo (testBmYiq) was automatically updated on 5/18/2023, 10:33:17?AM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -17,14 +17,18 @@ The shared link for [testBmYiq is here](https://script.google.com/d/1nZSlfKFyWCj
 --- | --- 
 appsscript| json
 Code| server_js
-t2| server_js
 t3| server_js
+t4| server_js
+t6| server_js
+Exports| server_js
+t7| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
 bmYiq| bmYiq|1gUNJ_axo9Q2tiBkZ5QFfLz03O1SMLR11Z-aZJoMzwImGWwSCwgH0SSW8|0|no|[here](libraries/bmYiq "library source")
 bmFiddler| bmFiddler|13EWG4-lPrEf34itxQhAQ7b9JEbmCBfO8uE4Mhr99CHi3Pw65oxXtq-rU|0|no|[here](libraries/bmFiddler "library source")
-bmChroma| bmChroma|1zjBPTX8meADK6W2tbw-sNB0479OMN2hhT1O5MGna7v5liAj7paj-W8QE|0|no|no
+bmChroma| bmChroma|1zjBPTX8meADK6W2tbw-sNB0479OMN2hhT1O5MGna7v5liAj7paj-W8QE|3|no|[here](libraries/bmChroma "library source")
+bmPreFiddler| bmPreFiddler|13JUFGY18RHfjjuKmIRRfvmGlCYrEkEtN6uUm-iLUcxOUFRJD-WBX-tkR|33|no|[here](libraries/bmPreFiddler "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
@@ -32,7 +36,8 @@ bmYiq| bmYiq|1gUNJ_axo9Q2tiBkZ5QFfLz03O1SMLR11Z-aZJoMzwImGWwSCwgH0SSW8|0|no|[her
 bmFiddler| bmFiddler|13EWG4-lPrEf34itxQhAQ7b9JEbmCBfO8uE4Mhr99CHi3Pw65oxXtq-rU|0|no|[here](libraries/bmFiddler "library source")
 bmLibraryReporter| bmLibraryReporter|1D_lWK-jU53wxMA2-NxSjiyu7Uze_GDDqBKTsQnCgPhyUmmSLv0bfTNPX|14|no|[here](libraries/bmLibraryReporter "library source")
 bmLibraryTracking| bmLibraryTracking|1GIpX-loeYv2swfT2mcYCUvduAXtoYdzenzIYXt4M_1YLmlN7eMrO1h_P|7|no|[here](libraries/bmLibraryTracking "library source")
-bmChroma| bmChroma|1zjBPTX8meADK6W2tbw-sNB0479OMN2hhT1O5MGna7v5liAj7paj-W8QE|0|no|no
+bmChroma| bmChroma|1zjBPTX8meADK6W2tbw-sNB0479OMN2hhT1O5MGna7v5liAj7paj-W8QE|3|no|[here](libraries/bmChroma "library source")
+bmPreFiddler| bmPreFiddler|13JUFGY18RHfjjuKmIRRfvmGlCYrEkEtN6uUm-iLUcxOUFRJD-WBX-tkR|33|no|[here](libraries/bmPreFiddler "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
