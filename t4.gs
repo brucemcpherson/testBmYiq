@@ -11,7 +11,6 @@ const t4 = () => {
   const fontColors = []
 
   const newData = fiddler.getData().map((f, i) => {
-    console.log(f)
     const list = getColors(f.color || 'white')
     backgrounds[i] = Array.from({ length: fiddler.getNumColumns() }).fill(list.mix.saturated.hex)
     fontColors[i] = Array.from({ length: fiddler.getNumColumns() }).fill(list.mix.saturated.contrast)
